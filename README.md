@@ -2,7 +2,8 @@
 Learning SwiftUI and iOS App Development through building basic projects
 
 # Projects Completed:
-- I am Rich
+- I am Rich (Guided)
+- I am Poor
 
 # Projects in progress:
-- I am Poor
+- Dicee

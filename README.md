@@ -5,5 +5,6 @@ Learning SwiftUI and iOS App Development through building basic projects
 - [x] I am Rich (Guided)
 - [x] I am Poor
 - [x] Dicee (Guided)
-- [ ] Magic 8 Ball
+- [x] Magic 8 Ball
+- [ ] Auto Layout
 

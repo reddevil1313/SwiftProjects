@@ -1,9 +1,8 @@
 # SwiftProjects
 Learning SwiftUI and iOS App Development through building basic projects
 
-# Projects Completed:
-- I am Rich (Guided)
-- I am Poor
+## Projects:
+- [x] I am Rich (Guided)
+- [x] I am Poor
+- [ ] Dicee
 
-# Projects in progress:
-- Dicee

@@ -10,5 +10,6 @@ Learning SwiftUI and iOS App Development through building basic projects
 - [x] Xylophone
 - [x] Egg Timer
 - [x] Quizzler
-- [ ] Destini
+- [x] Destini
+- [ ] BMI Calculator
 

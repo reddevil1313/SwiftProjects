@@ -9,5 +9,6 @@ Learning SwiftUI and iOS App Development through building basic projects
 - [x] Calculator Layout
 - [x] Xylophone
 - [x] Egg Timer
-- [ ] Quizzler
+- [x] Quizzler
+- [ ] Destini
 

@@ -8,5 +8,6 @@ Learning SwiftUI and iOS App Development through building basic projects
 - [x] Magic 8 Ball
 - [x] Calculator Layout
 - [x] Xylophone
-- [ ] Egg Timer
+- [x] Egg Timer
+- [ ] Quizzler
 
